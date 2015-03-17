@@ -31,7 +31,7 @@
     "deepmerge": "^0.2.7"
   },
   "peerDependencies": {
-    "keystone": "^0.2.42"
+    "keystone": "^0.3.4"
   },
   "devDependencies": {
     "grunt-cli": "^0.1.13",
